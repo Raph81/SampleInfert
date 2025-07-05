@@ -1,0 +1,10 @@
+# Fichiers temporaires
+*.log
+*.tmp
+*.DS_Store
+
+# Dossiers à ignorer
+__pycache__/
+data/
+logs/
+
