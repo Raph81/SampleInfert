@@ -2,8 +2,14 @@
 name = "SampleInfert"
 version = "1.0.0"
 description = "Un projet servant à faire du clonage vocal de haute qualité."
-readme = ""
+readme = "README.md"
 requires-python = ">=3.10,<3.11"
+authors = [
+    {name = "Raph81"}
+]
+
+[project.urls]
+Homepage = "https://github.com/Raph81/SampleInfert"
 
 dependencies = [
     "librosa==0.9.1",
